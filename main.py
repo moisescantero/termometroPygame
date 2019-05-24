@@ -145,7 +145,7 @@ class NumberInput():
 
 
 class mainApp():
-    termometro = None
+    termometro = None#atributo 
     entrada = None
     selector = None
     
